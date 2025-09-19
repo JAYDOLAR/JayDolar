@@ -16,5 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaydolar&show_icons=true&locale=en" alt="jaydolar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaydolar&" alt="jaydolar" /></p>
 <p><img align="center" src="https://leetcard.jacoblin.cool/dolarjay3457?theme=light&font=Ubuntu%20Mono&ext=heatmap" alt="jaydolar" /></p>
