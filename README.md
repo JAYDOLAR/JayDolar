@@ -1,19 +1,67 @@
 <h1 align="center">Hi 👋, I'm Jay Dolar</h1>
-<h3 align="center">I am currently pursuing a BTech in Computer Engineering from Charusat University (CSPIT). I completed a diploma in Information Technology at Government Polytechnic College. My passion lies in software development, and I am eager to become a Software Engineer.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">
+💻 Aspiring Software Engineer | 🎓 BTech CE @ CHARUSAT | 🚀 Passionate Developer
+</h3>
+
+---
+
+## 🧑‍💻 About Me
+- 🎓 Pursuing **BTech in Computer Engineering (CSPIT, CHARUSAT)**
+- 🎓 Diploma in **Information Technology**
+- 💡 Passionate about **Software Development & Problem Solving**
+- 🚀 Goal: Becoming a **Skilled Software Engineer**
+- 📚 Currently learning: **Advanced Backend & System Design**
+
+---
+
+## 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/jay-dolar-00b93b245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-dolar-00b93b245" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dolarjay3457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dolarjay3457" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dolarjay3457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dolarjay3457" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dolarja3rmv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dolarja3rmv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jay-dolar-00b93b245" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://www.hackerrank.com/dolarjay3457" target="_blank">
+  <img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
+</a>
+<a href="https://www.leetcode.com/dolarjay3457" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/dolarja3rmv" target="_blank">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydolar&show_icons=true&locale=en&layout=compact" alt="jaydolar" /></p>
+## 🛠️ Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,django,spring,mysql,postgresql,firebase,android,figma,git" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaydolar&show_icons=true&locale=en" alt="jaydolar" /></p>
+---
 
-<p><img align="center" src="https://leetcard.jacoblin.cool/dolarjay3457?theme=light&font=Ubuntu%20Mono&ext=heatmap" alt="jaydolar" /></p>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaydolar&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydolar&layout=compact&theme=transparent" />
+</p>
+
+---
+
+## 🧠 Coding Profiles
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/dolarjay3457?theme=dark&font=Ubuntu&ext=heatmap" />
+</p>
+
+---
+
+## 🔥 Focus Areas
+- Backend Development ⚙️  
+- Problem Solving 🧩  
+- Data Structures & Algorithms 📊  
+- Scalable Systems 🚀  
+
+---
+
+## ✨ Fun Fact
+> I enjoy turning ideas into real-world applications 💡
