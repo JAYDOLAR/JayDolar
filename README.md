@@ -1,40 +1,31 @@
 <h1 align="center">Hi 👋, I'm Jay Dolar</h1>
 
-<h3 align="center">
-💻 Aspiring Software Engineer | 🎓 BTech CE @ CHARUSAT | 🚀 Passionate Developer
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Backend+Developer;Problem+Solver;Java+%7C+Python+%7C+Spring" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Pursuing **BTech in Computer Engineering (CSPIT, CHARUSAT)**
-- 🎓 Diploma in **Information Technology**
-- 💡 Passionate about **Software Development & Problem Solving**
-- 🚀 Goal: Becoming a **Skilled Software Engineer**
-- 📚 Currently learning: **Advanced Backend & System Design**
+- 🎓 BTech CE @ CHARUSAT (CSPIT)
+- 💻 Passionate about Software Development
+- 🚀 Focus: Backend + Scalable Systems
+- 📚 Learning: System Design & Advanced DSA
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/jay-dolar-00b93b245" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="https://www.hackerrank.com/dolarjay3457" target="_blank">
-  <img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
-</a>
-<a href="https://www.leetcode.com/dolarjay3457" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
-</a>
-<a href="https://auth.geeksforgeeks.org/user/dolarja3rmv" target="_blank">
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/>
-</a>
+<p align="center">
+<a href="https://linkedin.com/in/jay-dolar-00b93b245"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://leetcode.com/dolarjay3457"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+<a href="https://hackerrank.com/dolarjay3457"><img src="https://skillicons.dev/icons?i=hackerrank" height="40"/></a>
+<a href="https://auth.geeksforgeeks.org/user/dolarja3rmv"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/></a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,django,spring,mysql,postgresql,firebase,android,figma,git" />
 </p>
 
@@ -48,20 +39,34 @@
 
 ---
 
-## 🧠 Coding Profiles
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaydolar&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🧠 Coding Activity
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/dolarjay3457?theme=dark&font=Ubuntu&ext=heatmap" />
 </p>
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaydolar/jaydolar/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🔥 Focus Areas
 - Backend Development ⚙️  
-- Problem Solving 🧩  
 - Data Structures & Algorithms 📊  
-- Scalable Systems 🚀  
+- System Design 🚀  
+- Problem Solving 🧩  
 
 ---
 
 ## ✨ Fun Fact
-> I enjoy turning ideas into real-world applications 💡
+> I love building real-world applications from ideas 💡
